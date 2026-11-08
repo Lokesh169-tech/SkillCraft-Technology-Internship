@@ -1,31 +1,25 @@
 
-# Task 1 - Temperature Converter
+# Task 2 - Number Guessing Game
 
 ## Internship
 SkillCraft Technology
 
 ## Aim
-To develop a Python program that converts temperatures between Celsius, Fahrenheit, and Kelvin.
+To develop an interactive number guessing game using Python.
 
 ## Description
-This program allows users to select a temperature conversion option, enter a temperature, and get the converted result.
+The program generates a random number between 1 and 100. The user tries to guess the number, and the program provides hints until the correct number is found.
 
-## Technology Used
+## Technologies Used
 - Python
 - Visual Studio Code
 
-## Features
-- Celsius to Fahrenheit
-- Fahrenheit to Celsius
-- Celsius to Kelvin
-- Kelvin to Celsius
-- Fahrenheit to Kelvin
-- Kelvin to Fahrenheit
-
-## Output
-Example:
-Input: 37 Celsius
-Output: 98.6 Fahrenheit
+## Concepts Used
+- Random module
+- While loop
+- Conditional statements
+- User input
+- Break statement
 
 ## Conclusion
-Successfully developed and executed a temperature converter using Python.
+Successfully developed an interactive number guessing game using Python.
